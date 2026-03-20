@@ -5,7 +5,7 @@
 
 
 ## Project Purpose
-The purpose of this repository is to demonstrate basic proficiency in Git version control and GitHub workflow as outlined in the PGO Exercises 1 curriculum[cite: 9, 13]. 
+The purpose of this repository is to demonstrate basic proficiency in Git version control and GitHub workflow as outlined in the PGO Exercises 1 curriculum. 
 
 Key learning objectives included:
 * Initializing a local repository and managing the staging area
