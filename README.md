@@ -11,6 +11,19 @@ The goal of this project is to demonstrate proficiency in basic Git operations a
 * **src/Main.java**: The main entry point of the Java application.
 * **README.md**: Project documentation, including goals and author details.
 
+## Project Purpose
+The purpose of this repository is to demonstrate basic proficiency in Git version control and GitHub workflow as outlined in the PGO Exercises 1 curriculum. 
+
+Key learning objectives included:
+* Initializing a local repository and managing the staging area
+* Connecting to a remote public repository on GitHub
+* Maintaining a clear and meaningful commit history
+* Working with basic project structures in Java
+
+## Project Structure
+* `src/`: Contains the Java source files, including the `Main.java` entry point.
+* `README.md`: Project documentation and exercise goals.
+
 ## Git Commands Practiced
 The following commands were used to manage this project:
 * `git init`: Initializes a new Git repository.
